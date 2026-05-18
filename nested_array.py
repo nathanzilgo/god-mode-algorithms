@@ -47,5 +47,3 @@ def aux(arr, prefix=""):
 
 if __name__ == "__main__":
     solution()
-
-
