@@ -1,0 +1,13 @@
+# Ignore compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.class
+*.jar
+*.pyc
+*.pyo
+*.pyd
+is_prime
